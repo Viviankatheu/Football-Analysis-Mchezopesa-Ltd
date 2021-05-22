@@ -26,10 +26,10 @@ Feature Engineering: Figure out from the home team’s perspective if the game i
 
 The link to the dataset can be found here: https://drive.google.com/file/d/1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc/view
 
-A more detailed explanation and history of the rankings is available here: [Link] 
+A more detailed explanation and history of the rankings is available here:  https://en.wikipedia.org/wiki/FIFA_World_Rankings
 
-An explanation of the ranking procedure is available here: [Link]
+An explanation of the ranking procedure is available here: https://www.fifa.com/fifa-world-ranking/procedure/men
 
 Dataset Columns
 
-Some features are available on the FIFA ranking page [Link].
+Some features are available on the FIFA ranking page : https://www.fifa.com/fifa-world-ranking/ranking-table/men/index.html
